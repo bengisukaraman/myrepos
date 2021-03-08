@@ -5,10 +5,12 @@ date: "08 03 2021"
 output: html_document
 ---
 
-```#markdown
-#
- # baslık
- ##alt baslık
+# markdown
+
+# baslık
+
+## alt baslık
+
 * a
 * b
 * c

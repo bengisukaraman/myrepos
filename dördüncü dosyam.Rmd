@@ -1,7 +1,5 @@
 ---
 title: "dördüncüdosyam.Rmd"
-author: "bengisu karaman"
-date: "08 03 2021"
 output: html_document
 ---
 
