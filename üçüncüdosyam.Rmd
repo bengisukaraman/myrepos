@@ -1,0 +1,7 @@
+---
+title: "üçüncü dosyam"
+author: "bengisu karaman"
+date: "08 03 2021"
+output: html_document
+---
+

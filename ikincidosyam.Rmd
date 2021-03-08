@@ -1,0 +1,14 @@
+---
+title: "ikinci dosyam"
+author: "bengisu karaman"
+date: "08 03 2021"
+output: html_document
+---
+
+```#markdown
+#
+ # baslık
+ ##alt baslık
+* a
+* b
+* c
